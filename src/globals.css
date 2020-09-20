@@ -4,11 +4,6 @@ body {
     /* border: 1px solid red; */
   }
 
-  main{
-    color: var(--baseColor);
-    background: var(--baseBackground);
-   
-  }
   :root {
     --lime-green: hsl(163, 72%, 41%);
     --bright-red: hsl(356, 69%, 56%);
